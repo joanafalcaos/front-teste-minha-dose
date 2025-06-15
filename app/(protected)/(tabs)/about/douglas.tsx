@@ -17,7 +17,6 @@ export default function Douglas() {
                     Douglas Cavalcanti é estudante do curso de Sistemas para Internet na Universidade Católica de Pernambuco (UNICAP), atualmente no 5º período.
                     Atua como Analista de Recursos Humanos com foco em Recrutamento, Seleção e Desenvolvimento de Talentos. 
                     Possui experiência sólida em RH, com destaque para onboarding, treinamentos, atração e retenção de talentos, além de atendimento consultivo ao cliente.
-                    Também possui perfil híbrido com experiência em Customer Success, facilitando a comunicação com candidatos e gestores.
                 </Text>
             </AboutComponent>
             <Text style={{ marginTop: 20, marginBottom: 20 }}>Conecte-se com Douglas Cavalcanti!</Text>
